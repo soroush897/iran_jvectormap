@@ -1,0 +1,29 @@
+.container .flex-fill {
+    position: relative;
+}
+
+.jvm_back {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-radius: 3px;
+    background: #354052a3;
+    padding: 3px 8px;
+    color: #fff;
+    display: none;
+    cursor: pointer;
+    line-height: 22px;
+    text-align: center;
+    box-sizing: content-box;
+}
+
+.jvectormap-zoomout, .jvectormap-zoomin {
+    background: #354052a3;
+    line-height: 15px;
+    height: 20px;
+    width: 20px;
+}
+
+.jvectormap-zoomin {
+    top: 0;
+}
