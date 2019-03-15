@@ -1,4 +1,4 @@
-# iran_jvectormap
+# iran vector map | jVectorMap
 Iran State and cities Vector maps based on jvector map library
 
 
